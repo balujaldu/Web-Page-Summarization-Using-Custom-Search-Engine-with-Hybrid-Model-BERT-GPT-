@@ -9,7 +9,7 @@ What makes this work unique is its iterative information retrieval process—if 
 
 If you want to access my custom search engine, simply open VS Code, then open the folder from the Google Drive link below and run it. This will allow you to use my custom search engine directly.
 
-🔗 Google Drive Folder
+(https://drive.google.com/drive/folders/1Mu2tRsaSCjPB0uSOyuNEPH083wH71oAJ?usp=sharing)
 
 Please make sure not to change the file structure or order inside the folder.
 This project is not only about the webpage summarizer but also about building the custom search engine itself.
