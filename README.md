@@ -14,3 +14,5 @@ If you want to access my custom search engine, simply open VS Code, then open th
 Please make sure not to change the file structure or order inside the folder.
 This project is not only about the webpage summarizer but also about building the custom search engine itself.
 
+I have also included a video explanation of my project in the provided Drive link to help you easily understand the workflow and functionality of the system : https://drive.google.com/file/d/1hxOxdAnd90AETDqokOr7YSAj0SGLUZJn/view?usp=sharing
+
